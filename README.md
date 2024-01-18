@@ -34,7 +34,7 @@ Bu proje, bir kütüphane için üyeleri ve kitapların ödünç alınması işl
 - score
 
 ### Veri Tabanı Yapısı 
-![](/Users/eray/WebstormProjects/LibraryAPI/database_design.png)
+![](https://github.com/eraykisabacak/LibraryAPI/blob/main/database_design.png)
 
 ## Kurulum
 Gerekli bağımlılıkları yükleyin:
